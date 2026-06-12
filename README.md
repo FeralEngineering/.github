@@ -10,4 +10,4 @@ Hardware, software, and experimental systems.
 - Veil
 - OpenShelf (in development)
 
-![Feral Mark](../images/feral-mark.png)
+![Feral Mark](images/feral-mark.png)
