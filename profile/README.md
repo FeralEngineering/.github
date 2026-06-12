@@ -13,5 +13,5 @@ Hardware, software, and experimental systems.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FeralEngineering/.github/main/profile/feral-mark.png" width="90">
+  <img src="https://raw.githubusercontent.com/FeralEngineering/.github/main/profile/feral-mark.png" width="180">
 </p>
