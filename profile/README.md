@@ -10,4 +10,8 @@ Hardware, software, and experimental systems.
 - Veil
 - OpenShelf (in development)
 
-![Feral Engineering mark](https://raw.githubusercontent.com/FeralEngineering/.github/main/profile/feral-mark.png)
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FeralEngineering/.github/main/profile/feral-mark.png" width="90">
+</p>
