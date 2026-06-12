@@ -1,16 +1,13 @@
-## Hi there 👋
+# Feral Engineering
 
-<!--
-**FeralEngineering/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+Hardware, software, and experimental systems.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- White Pine
+- Wardra
+- Entropy Box
+- Veil
+- OpenShelf (in development)
+
+![Feral Mark](images/feral-mark.png)
