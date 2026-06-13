@@ -38,9 +38,15 @@ Veil
 </tr>
 
 <tr>
-<td align="center" colspan="2">
-<strong>OpenShelf</strong><br>
-<sub>In development</sub>
+<td align="center" width="220">
+<a href="https://github.com/FeralEngineering/OpenShelf">
+<img src="https://raw.githubusercontent.com/FeralEngineering/OpenShelf/main/images/openshelf-nodes.jpg" width="180"><br>
+OpenShelf
+</a>
+</td>
+
+<td align="center" width="220">
+&nbsp;
 </td>
 </tr>
 </table>
